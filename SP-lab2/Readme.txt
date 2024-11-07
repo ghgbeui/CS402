@@ -1,4 +1,4 @@
-For sp-lab2.c, it has nine options for user to select. 1. Print the Database. 2. Lookup employee by ID. 3. Lookup employee by last name. 4. Add an Employee. 5. Quit. 6. Remove an employee. 7. Update an employee's information. 8. Print the M employees with the lowest salaries. 9. Find all employees with matching first name.
+For sp-lab2.c, it has nine options for user to select. 1. Print the Database. 2. Lookup employee by ID. 3. Lookup employee by last name. 4. Add an Employee. 5. Quit. 6. Remove an employee. 7. Update an employee's information. 8. Print the M employees with the highest salaries. 9. Find all employees with a salary between min and max.
 
 You can select what function you want to do.
 
